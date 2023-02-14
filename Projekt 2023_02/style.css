@@ -1,0 +1,27 @@
+.main {
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.number_one, .number_three, .number_five {
+    background-color: lightpink;
+}
+
+#number_two {
+   background-color: white;
+   color: blue;
+   font-size: 36px;
+}
+
+.number_three {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#number_four {
+   background-color: lightgreen;
+   font-size: 24px;
+   font-weight: bold; 
+}
+
